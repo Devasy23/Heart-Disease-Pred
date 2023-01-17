@@ -4,3 +4,6 @@
 4) Location - web scraping use kari ane suggested doctors
 5) Form creation and deployment on Streamlit
 6) Using Database to store data - try mongodb
+
+
+@Devansh - work on Borderline SMOTE to generate extra datapoints for minority sample

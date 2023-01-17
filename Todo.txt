@@ -1,0 +1,6 @@
+1) predict_proba()
+2) feature scaling
+3) random forest, svc apply both (ensemble)
+4) Location - web scraping use kari ane suggested doctors
+5) Form creation and deployment on Streamlit
+6) Using Database to store data - try mongodb
